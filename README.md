@@ -1,2 +1,0 @@
-# unicorn
-Scrum meeting
